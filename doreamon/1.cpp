@@ -8,6 +8,7 @@ class gadget{
 
     public:
     string name;
+    
     int powerlevel;
 
     void display(string a, int b){
